@@ -1,1 +1,1 @@
-# melindasterne.github.io a personal portfolio site
+# [Melinda Sterne's] (https://melindasterne.github.io/) portfolio site.
