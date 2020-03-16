@@ -1,3 +1,32 @@
 body {
 	background-color: #FFC300;
 }
+.top_menu {
+	display: grid;
+	grid-template-columns: auto auto;
+	list-style-type: none;
+	text-align: center;
+}
+
+.top_menu li a {
+	text-decoration: none;
+	font-size: 2em;
+}
+.item1 {
+	grid-column-start: 1;
+	grid-column-end: 2;
+}
+
+.item2 {
+	grid-column-start: 2;
+	grid-column-end: 3;
+}
+header {
+	text-align: center;
+	font-size: 1.5em;
+}
+.thai_nums_containter {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	text-align: center;
+}
